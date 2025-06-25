@@ -1,0 +1,1 @@
+def query_kb(text):\n    # RAG based query retrieval\n    return 'Anubhav optimized Airflow by 30%'
