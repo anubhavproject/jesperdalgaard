@@ -1,1 +1,1 @@
-# AI Portfolio Agent\nPersonal agent project.
+# jesperdalgaard AI Agent\n\nA personalized AI agent implementation showcasing Retrieval-Augmented Generation (RAG) for professional knowledge management.

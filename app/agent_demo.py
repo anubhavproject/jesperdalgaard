@@ -1,0 +1,1 @@
+from agent.portfolio_bot import PortfolioAgent\nprint(PortfolioAgent().respond('Tell me about data engineering.'))
